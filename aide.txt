@@ -1,0 +1,14 @@
+Le projet nécessite la libraire JRE et la librairie JOGL permettant l'affichage graphique 3D.
+
+Installation :
+
+	logiciel recommandé : Eclipse
+	
+	Télécharger et décompresser le fichier zip dans votre workspace Eclipse.
+	
+	Dans la plateforme d'Eclipse : File -> import -> Projects from Folder or Archive.
+	Sélectionner le dossier WorldOfCells_final.
+	
+	Une fois le projet importé, le lancement se fait à l'aide du bouton Run.
+	La fenêtre graphique peut être redimensionnée.
+	La touche H permet d'afficher l'aide des différentes interactions clavier.
